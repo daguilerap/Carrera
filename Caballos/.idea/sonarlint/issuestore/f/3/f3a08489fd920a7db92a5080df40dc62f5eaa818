@@ -1,0 +1,46 @@
+
+`
+java:S1192N"JDefine a constant instead of duplicating this literal "Prioridad" 3 times.(•º©ƒ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(Óöã­
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óöã­
+>
+java:S1604F"(Make this anonymous inner class a lambda(À©”
+D
+java:S1604"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+r
+java:S1450—"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450˜"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450™"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450š"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450›"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450œ"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+B
+java:S1948"'Make "hilos" transient or serializable.(¿×Ûñşÿÿÿÿ
+F
+java:S1874"0Remove this use of "Observer"; it is deprecated.(Óöã­
+F
+java:S1172Ê"*Remove this unused method parameter "evt".(’°­üÿÿÿÿ
+N
+java:S1854Í"7Remove this useless assignment to local variable "sli".(¡˜ı¨
+T
+java:S1854Ş"=Remove this useless assignment to local variable "prioridad".(ÇÑÉ–
+T
+java:S1197è"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147÷"ECombine this catch with the one at line 245, which has the same body.(¨¦Š½
+\
+java:S2147ù"ECombine this catch with the one at line 245, which has the same body.(ã€ 
+[
+java:S2147û"ECombine this catch with the one at line 245, which has the same body.(ñÎ¯%
+N
+java:S1874ª"2Remove this use of "Observable"; it is deprecated.(‹›Àüÿÿÿÿ
+=	java:S131¯""Add a default case to this switch.(‹îšŸüÿÿÿÿ
+?
+java:S1481Í"(Remove this unused "sli" local variable.(¡˜ı¨
